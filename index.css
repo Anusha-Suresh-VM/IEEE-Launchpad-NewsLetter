@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: aqua;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+body{
+    background-color: rgb(196, 233, 234);
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 0.4em;
+    background-color: rgb(4, 4, 31);
+    color:white;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+p{
+    margin-left:10%;
+    margin-right: 10%;
+    font-size: 15px;
+}
+h2{
+    margin-left:10%;
+    margin-right: 10%;
+
+}
+ul li{
+    margin-left:15% ;
+}
+button{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(74, 135, 225);
+    height: 40px;
+    width:100px;
+    text-align: center;
+    border-radius: 0.4em;
+}
+footer p{
+    text-align: center;
+}
+button:hover{
+    background-color: aqua;
+}
+h2:hover{
+    color: aqua;
+}
+.container:hover{
+    background-color: rgb(3, 1, 62);
+}
